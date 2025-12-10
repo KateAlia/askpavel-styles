@@ -41,3 +41,91 @@ a:hover, a:focus, .link-action:hover, .more-text:hover {
 .slick-prev:before, .slick-next:before {
     color: #44624C !important;
 }
+
+.btn-primary, .btn-success, .btn-info {
+    background-color: #44624C !important;
+    border-color: #44624C !important;
+    color: #FFFFFF !important;
+}
+.btn-primary:hover, .btn-success:hover, .btn-info:hover {
+    background-color: #365139 !important;
+    border-color: #365139 !important;
+}
+.btn-outline-primary, .btn-outline-success, .btn-outline-info {
+    border-color: #44624C !important;
+    color: #44624C !important;
+}
+.btn-outline-primary:hover, .btn-outline-success:hover, .btn-outline-info:hover {
+    background-color: #44624C !important;
+    color: #FFFFFF !important;
+}
+.nav-link.active, .nav-link:hover {
+    color: #44624C !important;
+    border-color: #44624C !important;
+}
+.card-title, .card-header {
+    color: #44624C !important;
+}
+.badge-primary, .badge-success, .badge-info {
+    background-color: #44624C !important;
+}
+.text-primary, .text-success, .text-info {
+    color: #44624C !important;
+}
+.border-primary, .border-success, .border-info {
+    border-color: #44624C !important;
+}
+.bg-primary, .bg-success, .bg-info {
+    background-color: #44624C !important;
+}
+.list-group-item.active {
+    background-color: #44624C !important;
+    border-color: #44624C !important;
+}
+.page-link {
+    color: #44624C !important;
+}
+.page-item.active .page-link {
+    background-color: #44624C !important;
+    border-color: #44624C !important;
+}
+.dropdown-item:hover, .dropdown-item:focus {
+    background-color: rgba(68, 98, 76, 0.1) !important;
+    color: #44624C !important;
+}
+.form-control:focus, .form-select:focus {
+    border-color: #44624C !important;
+    box-shadow: 0 0 0 0.2rem rgba(68, 98, 76, 0.25) !important;
+}
+.form-check-input:checked {
+    background-color: #44624C !important;
+    border-color: #44624C !important;
+}
+a.text-body:hover {
+    color: #44624C !important;
+}
+::selection {
+    background-color: rgba(68, 98, 76, 0.3) !important;
+}
+.progress-bar {
+    background-color: #44624C !important;
+}
+.spinner-border, .spinner-grow {
+    color: #44624C !important;
+}
+.alert-primary, .alert-success, .alert-info {
+    background-color: rgba(68, 98, 76, 0.1) !important;
+    border-color: #44624C !important;
+    color: #44624C !important;
+}
+.table-primary, .table-success, .table-info {
+    background-color: rgba(68, 98, 76, 0.1) !important;
+}
+.accordion-button:not(.collapsed) {
+    background-color: rgba(68, 98, 76, 0.1) !important;
+    color: #44624C !important;
+}
+.accordion-button:focus {
+    border-color: #44624C !important;
+    box-shadow: 0 0 0 0.2rem rgba(68, 98, 76, 0.25) !important;
+}
