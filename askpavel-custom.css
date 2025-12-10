@@ -1,0 +1,43 @@
+body, body.detail {
+    background-color: #F7F7F7 !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #44624C !important;
+}
+a, a:link, a:visited, .link-action, .nav-link, p a, .text-description a, .more-text, span.more-text {
+    color: #44624C !important;
+}
+a:hover, a:focus, .link-action:hover, .more-text:hover {
+    color: #365139 !important;
+}
+.more-text i, .more-text .fa-chevron-down, .more-text .fa-chevron-up {
+    color: #44624C !important;
+}
+#opinionPoll button, #opinionPoll button[data-opinion] {
+    background-color: #FFFFFF !important;
+    border: 1px solid #44624C !important;
+    color: #44624C !important;
+}
+#opinionPoll button:hover {
+    background-color: #44624C !important;
+    color: #FFFFFF !important;
+}
+#opinionPoll button svg {
+    fill: #44624C !important;
+}
+#opinionPoll button:hover svg {
+    fill: #FFFFFF !important;
+}
+.icon-prop i, .fa-solid, .fa-regular, i.fa-solid {
+    color: #44624C !important;
+}
+.ya-share2__item_service_telegram .ya-share2__badge,
+.ya-share2__item_service_whatsapp .ya-share2__badge,
+.ya-share2__item_service_viber .ya-share2__badge,
+.ya-share2__item_service_vkontakte .ya-share2__badge,
+.ya-share2__item_service_pinterest .ya-share2__badge {
+    background-color: #44624C !important;
+}
+.slick-prev:before, .slick-next:before {
+    color: #44624C !important;
+}
