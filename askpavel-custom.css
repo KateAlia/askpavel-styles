@@ -35,13 +35,13 @@ a:hover, a:focus, .link-action:hover, .more-text:hover {
 .ya-share2__item_service_whatsapp .ya-share2__badge,
 .ya-share2__item_service_viber .ya-share2__badge,
 .ya-share2__item_service_vkontakte .ya-share2__badge,
-.ya-share2__item_service_pinterest .ya-share2__badge {
+.ya-share2__item_service_pinterest .ya-share2__badge,
+.ya-share2__item_service_odnoklassniki .ya-share2__badge {
     background-color: #44624C !important;
 }
 .slick-prev:before, .slick-next:before {
     color: #44624C !important;
 }
-
 .btn-primary, .btn-success, .btn-info {
     background-color: #44624C !important;
     border-color: #44624C !important;
@@ -69,7 +69,7 @@ a:hover, a:focus, .link-action:hover, .more-text:hover {
 .badge-primary, .badge-success, .badge-info {
     background-color: #44624C !important;
 }
-.text-primary, .text-success, .text-info {
+.text-primary, .text-success, .text-info, span.text-success {
     color: #44624C !important;
 }
 .border-primary, .border-success, .border-info {
