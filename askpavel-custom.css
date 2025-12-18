@@ -143,3 +143,32 @@ a.btn-outline-dark:hover,
     border-color: #1C1C1C !important;
     color: #FFFFFF !important;
 }
+.btn-card-detail {
+    border: 1px solid #44624C !important;
+    color: #44624C !important;
+    background-color: #FFFFFF !important;
+}
+.btn-card-detail::before {
+    background-color: #44624C !important;
+}
+.btn-card-detail:hover {
+    color: #FFFFFF !important;
+    border-color: #44624C !important;
+}
+.card-title,
+.object-item .card-title {
+    border-left: 5px solid #44624C !important;
+}
+.view-options button {
+    border-color: #44624C !important;
+}
+.view-options button:hover,
+.view-options button.act {
+    border-color: #44624C !important;
+    background-color: #44624C !important;
+}
+.view-options button.act svg,
+.view-options button:hover svg {
+    color: #FFFFFF !important;
+    fill: #FFFFFF !important;
+}
