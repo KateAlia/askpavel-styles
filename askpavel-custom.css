@@ -129,3 +129,17 @@ a.text-body:hover {
     border-color: #44624C !important;
     box-shadow: 0 0 0 0.2rem rgba(68, 98, 76, 0.25) !important;
 }
+.btn-outline-dark,
+a.btn-outline-dark,
+.card a.btn-outline-dark {
+    background-color: #FFFFFF !important;
+    border: 1px solid #44624C !important;
+    color: #44624C !important;
+}
+.btn-outline-dark:hover,
+a.btn-outline-dark:hover,
+.card a.btn-outline-dark:hover {
+    background-color: #1C1C1C !important;
+    border-color: #1C1C1C !important;
+    color: #FFFFFF !important;
+}
